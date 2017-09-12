@@ -1,6 +1,5 @@
 package br.univali.portugol.nucleo.asa;
 
-import java.util.Collections;
 import java.util.List;
 
 /**
@@ -33,8 +32,8 @@ import java.util.List;
 public final class NoDeclaracaoFuncao extends NoDeclaracao
 {
     private final Quantificador quantificador;
-    private List<NoBloco> blocos = Collections.EMPTY_LIST;
-    private List<NoDeclaracaoParametro> parametros = Collections.EMPTY_LIST;
+    private List<NoBloco> blocos;
+    private List<NoDeclaracaoParametro> parametros;
 
     /**
      *
