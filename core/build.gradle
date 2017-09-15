@@ -15,6 +15,9 @@ dependencies {
     // https://mvnrepository.com/artifact/com.googlecode.soundlibs/tritonus-share
     runtime group: 'com.googlecode.soundlibs', name: 'tritonus-share', version: '0.3.7.4'
     
+    // https://mvnrepository.com/artifact/org.hid4java/hid4java
+    compile group: 'org.hid4java', name: 'hid4java', version: '0.5.0'
+    
     // Talvez possa ser substituído pela dependência abaixo
     // https://mvnrepository.com/artifact/javax.media/jmf
     //compile group: 'javax.media', name: 'jmf', version: 'fs-3.0'
