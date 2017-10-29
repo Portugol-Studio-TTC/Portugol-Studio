@@ -3,6 +3,14 @@
 [![Discord](https://img.shields.io/badge/chat-on_discord-4bc51d.svg)](https://discord.gg/fRW7Vq2)
 [![License](https://img.shields.io/badge/License-GPL--3.0-4bc51d.svg)](https://github.com/UNIVALI-LITE/Portugol-Studio/blob/master/LICENSE.md)
 
+### English
+This repository is a mirror of the [Portugol-Studio project](https://github.com/UNIVALI-LITE/Portugol-Studio), used for the research of the academics [Ailton Cardoso Júnior](https://github.com/Ailtonjr) and [Douglas Breda](https://github.com/douglasbreda).
+
+### Portuguese
+Este repósitório é um espelho do [projeto Portugol-Studio](https://github.com/UNIVALI-LITE/Portugol-Studio), utilizado para o Trabalho Técnico Ciêntifico de Conclusão de Curso dos acadêmicos [Ailton Cardoso Júnior](https://github.com/Ailtonjr) e [Douglas Breda](https://github.com/douglasbreda).
+
+
+## Sobre
 O [Portugol Studio](http://lite.acad.univali.br/portugol/) é um ambiente para aprender a programar, voltado para os iniciantes em programação que falam o idioma português. Possui uma sintaxe fácil, diversos exemplos e materiais de apoio à aprendizagem. Também possibilita a criação de jogos e outras aplicações.
 
 ***
