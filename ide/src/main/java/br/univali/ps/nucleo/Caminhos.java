@@ -49,7 +49,16 @@ public final class Caminhos
                 return new File(".");
             }
         }
-        return new File("src/main/assets");
+        else
+        {
+            //File diretorio = new File("../Portugol-Instalador/arquivos/compartilhados");
+            // Alterado para testar os plugins diretamente
+            File diretorio = new File("../../Portugol-GoGoBoard-Plugin/Portugol-GoGoBoard-Plugin");
+//            File diretorio = new File("../../SimuladorExperimentos");
+//            File diretorio = new File("D:/Desenvolvimento/TTC II/Plugin Experimentos/SimuladorExperimentos");
+
+            return diretorio;
+        }
     }
 
     public static String obterCaminhoExecutavelJavac()
